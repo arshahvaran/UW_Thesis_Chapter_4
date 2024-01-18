@@ -1,0 +1,16 @@
+## ACOLITE settings
+## Written at 2023-10-24 14:33:27
+inputfile=C:/Users/PHYS3009/Desktop/acolite_py_win_20231023.0/Python/inputfile2018.txt
+output=E:/Thesis/Chapter_3/RS_Data/ACOLITE_Outputs/2018
+polygon=C:/Users/PHYS3009/Desktop/acolite_py_win_20231023.0/wlo_boundaries_shp/wlo_boundaries_shp.shp
+l2w_parameters=rhow_*,chl_oc2,chl_oc3
+l2w_mask_threshold=0.050
+l2w_mask_cirrus_threshold=0.010
+l2w_mask_high_toa_threshold=0.500
+l2w_mask_smooth_sigma=4
+rgb_rhot=False
+rgb_rhos=False
+EARTHDATA_u=ar.shahvaran
+EARTHDATA_p=C7GwnqTM3tFTXND
+cirrus_correction=True
+dsf_residual_glint_correction=True
